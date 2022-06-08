@@ -12,7 +12,7 @@ Je m'appelle Alexandre, je suis un développeur français (baguette baguette oui
   
 📈 **Mes langages/framework de programmation connus:**
 ```text
-Web : HTML/CSS/JS/PHP/VUEJS
+Web : HTML/CSS/JS/PHP/VUEJS/Symfony
 POO : C#/JAVA
 SGBDR : SQL
 AUTRE : PYTHON
